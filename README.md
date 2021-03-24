@@ -10,7 +10,7 @@ Os Dashboards criados, estão no arquivo com extensão .pbix, do qual é necess�
 O conjunto de dados que foi utilizado para criar a analise, está disponível no site da prefeitura de Florianópolis.
 </br>link: https://www.pmf.sc.gov.br/
 
-## :tools: Ferramenta da Solução
+## :tools:  Ferramenta da Solução
 
 As analises foram desenvolvidas utilizando o Powerbi e linguagem DAX.
 </br>
